@@ -11,6 +11,20 @@ O **PyVault** é um gerenciador de senhas local desenvolvido em Python. Ele util
 - **Auto-Copy:** Ao gerar uma senha, ela é automaticamente copiada para a sua área de transferência (Ctrl+V).
 - **Interface Intuitiva:** Desenvolvido com Tkinter para uma experiência de usuário simples.
 
+## 🛠️ Tecnologias Utilizadas
+Python: Linguagem principal.
+
+Tkinter: Interface gráfica (GUI).
+
+JSON: Armazenamento e manipulação de dados.
+
+Pyperclip: Interação com a área de transferência do sistema.
+
+## 📝 Notas de Versão
+O programa verifica automaticamente se o arquivo data.json existe; caso contrário, ele cria um novo.
+
+Ao adicionar um site que já existe, o programa atualizará os dados daquele cadastro.
+
 ## 🚀 Como instalar e usar
 
 ### Pré-requisitos
