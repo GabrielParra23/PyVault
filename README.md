@@ -24,9 +24,3 @@ Pyperclip: Interação com a área de transferência do sistema.
 O programa verifica automaticamente se o arquivo data.json existe; caso contrário, ele cria um novo.
 
 Ao adicionar um site que já existe, o programa atualizará os dados daquele cadastro.
-
-## 🚀 Como instalar e usar
-
-### Pré-requisitos
-* Python 3.x instalado.
-* Biblioteca `pyperclip` (para funcionalidade de copiar senha).
