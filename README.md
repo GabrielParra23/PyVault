@@ -30,9 +30,3 @@ Ao adicionar um site que já existe, o programa atualizará os dados daquele cad
 ### Pré-requisitos
 * Python 3.x instalado.
 * Biblioteca `pyperclip` (para funcionalidade de copiar senha).
-
-### Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/PyVault.git](https://github.com/seu-usuario/PyVault.git)
